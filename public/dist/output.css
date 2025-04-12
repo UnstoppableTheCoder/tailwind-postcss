@@ -178,28 +178,12 @@
   .justify-center {
     justify-content: center;
   }
-  .bg-blue-400 {
-    background-color: var(--color-blue-400);
-  }
-  .bg-orange-400 {
-    background-color: var(--color-orange-400);
-  }
-  .bg-red-400 {
-    background-color: var(--color-red-400);
-  }
-  .bg-red-500 {
-    background-color: var(--color-red-500);
-  }
   .bg-teal-400 {
     background-color: var(--color-teal-400);
   }
   .text-6xl {
     font-size: var(--text-6xl);
     line-height: var(--tw-leading, var(--text-6xl--line-height));
-  }
-  .text-9xl {
-    font-size: var(--text-9xl);
-    line-height: var(--tw-leading, var(--text-9xl--line-height));
   }
   .text-teal-100 {
     color: var(--color-teal-100);
